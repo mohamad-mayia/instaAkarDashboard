@@ -890,7 +890,7 @@ const Posts = ({ location }) => {
                   <CCol md="4" lg="2" xl="2">
                     <CFormGroup row>
                       <CCol md="12">
-                        <CLabel htmlFor="text-input">{t("Min Area")}    </CLabel>
+                        <CLabel htmlFor="text-input2">{t("Min Area")}    </CLabel>
                       </CCol>
                       <CCol xs="12" md="12">
                         <CInput name="area_from"
