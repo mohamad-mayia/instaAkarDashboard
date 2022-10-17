@@ -1,1 +1,2 @@
-global.apiUrl = 'https://backend.instaaqar.com/'
+global.apiUrl = 'http://3.67.189.115/'
+
