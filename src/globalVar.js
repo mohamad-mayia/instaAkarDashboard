@@ -1,0 +1,1 @@
+global.apiUrl = 'https://backend.instaaqar.com/'
