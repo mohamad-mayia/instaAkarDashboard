@@ -1,2 +1,2 @@
-global.apiUrl = 'http://3.67.189.115/'
+global.apiUrl = 'https://uot.sge.mybluehost.me/'
 
