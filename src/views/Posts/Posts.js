@@ -977,7 +977,7 @@ const Posts = ({ location }) => {
                     null}
                   {errorMessage && typeof errorMessage === 'string' ? <CAlert color="danger" className='col-lg-12'  >{errorMessage} </CAlert> : null}
 
-
+                  <></>
                 </CRow>
               </CForm>
             </CCardHeader>
